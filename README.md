@@ -1,6 +1,6 @@
 # weather_api
 
-A new Flutter project.
+Flutter project connect API.
 
 ## Getting Started
 
